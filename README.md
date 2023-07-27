@@ -1,7 +1,7 @@
 # ttd2mdmp
 Convert TTD traces into MiniDumps ⏲️
 
-https://github.com/airbus-cert/ttd2mdmp/raw/main/assets/demo.mp4
+https://github.com/airbus-cert/ttd2mdmp/assets/27704776/9c4b29c6-42ec-49d1-bc87-c6d4918ddb67
 
 ## Installation
 
